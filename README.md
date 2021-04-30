@@ -7,3 +7,4 @@ go build -ldflags "-H windowsgui -w -s" shellcode_loader.go
 //编译
 
 原理及过程：
+https://mp.weixin.qq.com/s/3R0sebWHIiHeDKqmRsoSwg
